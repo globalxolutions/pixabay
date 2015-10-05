@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Pixabay::VERSION
   spec.authors       = ["Ariel De La Rosa"]
   spec.email         = ["ariel@globalxolutions.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{API for pixabay}
+  spec.description   = %q{WIP}
   spec.homepage      = ""
   spec.license       = "MIT"
 

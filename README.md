@@ -1,6 +1,6 @@
 # Pixabay
 
-TODO: Write a gem description
+API for pixabay
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+WIP
 
 ## Contributing
 
